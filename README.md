@@ -1,2 +1,2 @@
 My first readme
-Updating directly from GitHub. 
+Updating directly from GitHub.  
